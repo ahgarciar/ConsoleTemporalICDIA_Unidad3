@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ConsoleTemporalICDIA_Unidad3/1.0.0": {
+        "runtime": {
+          "ConsoleTemporalICDIA_Unidad3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTemporalICDIA_Unidad3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
