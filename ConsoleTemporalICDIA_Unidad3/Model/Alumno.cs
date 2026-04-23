@@ -6,6 +6,7 @@ public class Alumno : IComparable<Alumno>
     private string nombre;
     private double calificacion;
     
+    
     //Propiedades
     public long Matricula
     {

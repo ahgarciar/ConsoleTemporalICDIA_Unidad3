@@ -9,7 +9,22 @@ public class Program{
         //new JsonArchivoAlumnos();
         //new JsonLecturaAlumnos();
 
-        new RunnerExcepcionesPersonalizadas();
+        //new RunnerExcepcionesPersonalizadas();
+
+        //double x = 2;
+
+        //double cuadradoX = x * x;
+
+        //Math m;
+        //m = new Math();
+        
+        //double cuadradoX = Math.Pow(x, 2);
+
+
+        //new RunnerEjecutarOperacionesBasicas();
+
+        new RunnerLeerArchivos();
+
     }
 
 }
