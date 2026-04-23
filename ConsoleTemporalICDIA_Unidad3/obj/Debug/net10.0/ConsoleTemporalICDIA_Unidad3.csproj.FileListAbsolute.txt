@@ -12,3 +12,4 @@
 /Users/alejandrogarciaruiz/Desktop/ConsoleTemporalICDIA_Unidad3/ConsoleTemporalICDIA_Unidad3/obj/Debug/net10.0/ConsoleTemporalICDIA_Unidad3.pdb
 /Users/alejandrogarciaruiz/Desktop/ConsoleTemporalICDIA_Unidad3/ConsoleTemporalICDIA_Unidad3/obj/Debug/net10.0/ConsoleTemporalICDIA_Unidad3.genruntimeconfig.cache
 /Users/alejandrogarciaruiz/Desktop/ConsoleTemporalICDIA_Unidad3/ConsoleTemporalICDIA_Unidad3/obj/Debug/net10.0/ref/ConsoleTemporalICDIA_Unidad3.dll
+/Users/alejandrogarciaruiz/Desktop/ConsoleTemporalICDIA_Unidad3/ConsoleTemporalICDIA_Unidad3/obj/Debug/net10.0/ConsoleTemporalICDIA_Unidad3.sourcelink.json

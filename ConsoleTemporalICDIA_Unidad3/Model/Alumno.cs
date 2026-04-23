@@ -9,13 +9,39 @@ public class Alumno : IComparable<Alumno>
     //Propiedades
     public long Matricula
     {
-        get => matricula; 
-        set => matricula = value;
+        //Regla de negocio es que la matricula tiene que tener 
+        //obligatoriamente 4 digitos
+
+        get => matricula;
+        set {
+            if (value < 1000 || value > 9999)
+            {
+                //throw new ArgumentException("Matricula debe tener 4 digitos");
+                throw new MatriculaException("La matricula no debe tener más de 4 digitos");
+            }
+            
+            matricula = value;
+        
     }
+}
     public string Nombre
     {
-        get => nombre; 
-        set => nombre = value;
+        get => nombre;
+        set
+        {
+            if (value.Length > 100)
+            {
+                throw new NameFormatException("Longitud del nombre excedida");
+            }
+
+            if (value.Contains("@"))
+            {
+                throw new ArgumentException("Caracter especial encontrado");
+            }
+            
+            nombre = value; 
+            
+        }
     }
 
     public double Calificacion
@@ -31,7 +57,7 @@ public class Alumno : IComparable<Alumno>
     }
 
     public Alumno(long matricula)
-    {
+    { 
         Matricula = matricula;
     }
 

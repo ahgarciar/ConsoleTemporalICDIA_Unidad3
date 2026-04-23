@@ -7,7 +7,9 @@ public class Program{
     {
         //new JsonTest();
         //new JsonArchivoAlumnos();
-        new JsonLecturaAlumnos();
+        //new JsonLecturaAlumnos();
+
+        new RunnerExcepcionesPersonalizadas();
     }
 
 }
