@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleTemporalICDIA_Unidad3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6185f9bc58561552ea9108930b883a1a7725bfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfb854d11c5564db725afb62a1eb30d17e2c2115")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleTemporalICDIA_Unidad3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleTemporalICDIA_Unidad3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
